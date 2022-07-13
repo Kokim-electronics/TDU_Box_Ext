@@ -5,13 +5,14 @@
 
 ### Ⅱ.導入
 
-1. `chrome://extensions/`へアクセス
+1. `Releases - Assets - Source code (zip)` もしくは `Code - Download ZIP`からDL
+2. `chrome://extensions/`へアクセス
 
-2. デベロッパーモードオン
+3. デベロッパーモードオン
 
-3. `TDU_Box_Ext`フォルダをD&D
+4. `TDU_Box_Ext`フォルダをD&D
 
-4. 設定画面にて
+5. 設定画面にて
 メールアドレスと共通パスワードを設定
 
 ### Ⅲ.備考
