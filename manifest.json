@@ -3,7 +3,7 @@
     "description": "電大Box: 自動ログイン",
     "version": "1.0.0",
     "manifest_version": 3,
-    "homepage_url": "https://tdu.account.box.com/login/",
+    "homepage_url": "https://github.com/Kokim-electronics/TDU_Box_Ext",
     "permissions": [
         "storage"
     ],
