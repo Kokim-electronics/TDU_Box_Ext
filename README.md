@@ -10,7 +10,7 @@
 
 3. デベロッパーモードオン
 
-4. `TDU_Box_Ext`フォルダをD&D
+4. `C:\Program Files\Google\Chrome`あたりにでも解凍し`TDU_Box_Ext`フォルダをD&D
 
 5. 設定画面にて
 メールアドレスと共通パスワードを設定
