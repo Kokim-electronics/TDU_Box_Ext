@@ -6,7 +6,7 @@
 ### Ⅱ.導入
 
 1. `Releases - Assets - Source code (zip)` もしくは `Code - Download ZIP`からDL
-2. `chrome://extensions/`へアクセス
+2. chrome://extensions/ へアクセス
 
 3. デベロッパーモードオン
 
