@@ -1,4 +1,4 @@
-## TDU_Box_Ext
+## TDU_Box_Ext-v1.1.1
 
 ### Ⅰ.機能
 - [Box](https://tdu.account.box.com/login/)の面倒くさい2段階ログインを自動化。
@@ -21,4 +21,4 @@
 ### Ⅳ.参考資料
 BearOffice/WebClass-Extension: ウェブクラス(WebClass)の利便性を向上できるChrome拡張機能． https://github.com/BearOffice/WebClass-Extension 
 
-最終更新日2022/07/22 11:00
+最終更新日2022/07/22 21:30
