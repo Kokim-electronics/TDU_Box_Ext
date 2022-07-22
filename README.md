@@ -5,6 +5,8 @@
 
 ### Ⅱ.導入
 
+参考 : <br>[カスタムの Chrome アプリと拡張機能を作成して公開する - Chrome Enterprise and Education ヘルプ](https://support.google.com/chrome/a/answer/2714278?hl=ja)
+
 1. [Releases](https://github.com/Kokim-electronics/TDU_Box_Ext/releases) - Assets - `TDU_Box_Ext-vx.x.x.zip`からDL
 3. `chrome://extensions/` or `edge://extensions/`へアクセス、デベロッパーモード(Chrome)・開発者モード(Edge)、オン
 
